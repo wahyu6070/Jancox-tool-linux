@@ -1,5 +1,4 @@
-jancox.name=jancox tool
-jancox.version=1.0.9
-jancox.build=linux build
-jancox.author=wahyu6070
-jancox.date=17-02-2020
+brotli.level=1
+archive.zip=enable
+clean.tmp=disable
+date.file.rom=2009-09-27

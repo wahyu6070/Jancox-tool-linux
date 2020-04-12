@@ -1,1 +1,0 @@
-# Janco-tool-linux
